@@ -1,0 +1,2 @@
+# Ananya-Sharma0081-08_Classify-Plants-Based-on-Water-Needs_202401100300038
+Classify plants based on water needs (low, medium, high) using environmental factors like sunlight, watering frequency, and soil type. This project employs machine learning with SMOTE for handling class imbalance and Gradient Boosting for classification. It aims to provide optimized plant care recommendations based on environmental conditions.
